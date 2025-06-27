@@ -6,3 +6,6 @@ git push -u origin master - to push into remote repo with name repo and into mas
 git branch - to show all branches and current working branch
 git branch <branch name> - to create a branch
 git switch <branch name> - to switch to a branch
+
+git branch -d <branch name> - safe delect of branch
+git branch -D <branch name> - force delect of branch
