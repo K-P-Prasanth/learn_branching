@@ -2,3 +2,7 @@ git add . - to add all files
 git commit -m "message" - to commit with message
 git remote add origin "url" - orgin will be name(alias) of remote repo with url
 git push -u origin master - to push into remote repo with name repo and into master branch of remote repo
+
+git branch - to show all branches and current working branch
+git branch <branch name> - to create a branch
+git switch <branch name> - to switch to a branch
