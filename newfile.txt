@@ -1,5 +1,0 @@
-to check git restore
-
-git restore <filename>
-git restore --source HEAD~N <filename> - if N=2 then we jump 2 commits back, if N=3 we jump 3 commits back
-git restore --staged <filename> - to unstage files
